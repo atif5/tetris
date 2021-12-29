@@ -1,8 +1,8 @@
 # tetris
 A tetris game built with pygame
 
-## Installing
-with git:
+## Installation
+With git:
 
 `$ git clone https://github.com/atif5/tetris`
 
