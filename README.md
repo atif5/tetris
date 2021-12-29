@@ -31,5 +31,5 @@ or if you are in Windows:
 
 
 ## Notes
-Some non game-related minor bugs are present. I will be working on them
+Some non gameplay-related minor bugs are present. I will be working on them
 
