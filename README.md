@@ -30,3 +30,6 @@ or if you are in Windows:
 `$ py -m src`
 
 
+## Notes
+Some non game-related minor bugs are present. I will be working on them
+
