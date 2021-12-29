@@ -1,7 +1,7 @@
 # tetris
 A tetris game built with pygame
 
-### dependencies
+## Dependencies
 run,
 
 for Linux:
@@ -17,7 +17,7 @@ for Windows:
 `py -m pip install -r requirements.txt`
 
 
-### usage
+## Usage
 `$ python3 -m src`
 
 or if you are in Windows:
