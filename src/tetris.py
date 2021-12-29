@@ -28,7 +28,7 @@ class Tetris:
 
         cell_height = self.grid.cells[0].size[0]
 
-        self.logo = pygame.image.load('./tetris/logo.png')
+        self.logo = pygame.image.load('./logo.png')
         pygame.display.set_icon(self.logo)
         pygame.display.set_caption('Tetris')
 
