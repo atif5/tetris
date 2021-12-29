@@ -1,6 +1,11 @@
 # tetris
 A tetris game built with pygame
 
+## Installing
+with git:
+
+`$ git clone https://github.com/atif5/tetris`
+
 ## Dependencies
 Run,
 
